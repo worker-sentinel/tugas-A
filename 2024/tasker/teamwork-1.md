@@ -9,7 +9,7 @@
 
 ### pengumpulan
 - presentator mengumpulkan penugasan di dalam repo penguasan masing masing pada hari Rabu, jam 07.30 AM  
-- keterlambatan pengumpulan tugas di berikan sangksi pemberian pinalti penilaian sebesar 50%.  
+- keterlambatan pengumpulan tugas di berikan sanksi pemberian pinalti penilaian sebesar 50%.  
 
 ### output:
 1. slide presentasi google slide  
@@ -18,6 +18,9 @@
 ## Audience
 Untuk setiap anggota kelas, setiap sesi kelas selesai, akan mebuat resume dari hasil presentasi kelompok presentator, jika hasil resume keluar dari apa yang disampaikan oleh presentator maka resume tersebut akan di anggap gagal dan nilai penugasan pada minggu tersebut kosong.
 
+### pengumpulan
+- audience penugasan di dalam repo penguasan masing masing paling telat 2X24jam setelah berakhirnya kelas  
+- keterlambatan pengumpulan tugas di berikan sanksi pemberian pinalti penilaian sebesar 100%.  
 
 ## must to do:
 1 gunakan project github untuk perencaan tugas  
