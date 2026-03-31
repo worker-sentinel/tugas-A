@@ -3,7 +3,7 @@
 ## BAB 1 Pendahuluan
 **1. Latar Belakang**
 
-Dalam perkembangan teknologi pada masa sekarang, manusia memandang teknologi sebagai hal yang membawa perubahan besar di berbagai aspek kehidupan, dapat dilihat dari bekerja, berinteraksi, hingga menentukan pilihan. Pada awalnya, teknologi dipandang hanya sebagai alat yang dapat membantu aktivitas manusia. Namun, sekarang teknologi menggeser fungsi tersebut menjadi sesuatu yang dapat merubah cara berpikir, bertindak, bahkan cara memaknai hidup. 
+Dalam perkembangan teknologi masa sekarang, manusia memandang teknologi sebagai hal yang membawa perubahan besar di berbagai aspek kehidupan, dapat dilihat dari bekerja, berinteraksi, hingga menentukan pilihan. Pada awalnya, teknologi dipandang hanya sebagai alat yang dapat membantu aktivitas manusia. Namun, sekarang teknologi menggeser fungsi tersebut menjadi sesuatu yang dapat merubah cara berpikir, bertindak, bahkan cara memaknai hidup. 
 
 Dalam perspektif Homo Deus, perkembangan teknologi yang berbasis data dan algoritma telah menghasilkan suatu fenomena yang dapat disebut sebagai Dataisme, yaitu keyakinan bahwa sebuah aliran data memiliki kendali yang tinggi dibandingkan pengalaman pribadi manusia. Hal ini menggambarkan adanya manusia yang semakin bergantung pada teknologi dalam mengambil keputusan hidup, sehingga teknologi dapat mengambil peran yang serupa dengan “mitos” atau bahkan “agama baru” dalam masyarakat masa kini.
 
